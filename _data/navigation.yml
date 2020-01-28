@@ -10,8 +10,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Porjects"
-    url: /porjects/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
