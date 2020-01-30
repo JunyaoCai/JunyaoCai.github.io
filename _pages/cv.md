@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* B.S. in Changsha, China, Hunan University, 2016.9-2020.6
 * Ph.D in Beijing, China, Tsinghua University, 2020.9-?
+* B.S. in Changsha, China, Hunan University, 2016.9-2020.6
 
 Research experience
 ------
