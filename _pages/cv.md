@@ -12,7 +12,20 @@ redirect_from:
 Education
 ------
 * B.S. in Changsha, China, Hunan University, 2016.9-2020.6
-* Ph.D in Beijing, China, Tsinghua University, 2020.9-
+* Ph.D in Beijing, China, Tsinghua University, 2020.9-?
+
+Research experience
+------
+* March 2019 - : Research Intern
+  * Computer Science, Hunan University
+  * Research area: Accelerate distributed machine learning with communication schedule
+  * Advisor: Dr.Guo Chen
+
+Awards
+------
+* National Scholarship for Undergraduate, 2017, 2018, 2019
+* Mathematical Contest In Modeling(MCM/ICM), Honorable Mention, 2019
+* National College Computer Contest, First Prize in Central China, 2018
 
 <!-- Work experience
 ------
