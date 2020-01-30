@@ -1,7 +1,7 @@
 ---
 title: "Accelerate_DML_with_Comm_Schedule"
 collection: projects
-permalink: /projects/accelerate_DML_with_comm_schedule
+permalink: /project/accelerate_DML_with_comm_schedule
 excerpt: 'This project is about accelerating DML with communincation schedule.'
 ---
 
