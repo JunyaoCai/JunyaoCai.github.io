@@ -4,6 +4,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+[Accelerating DML with Communincation Schedule](https://junyaocai.github.io/projects/accelerate_DML_with_comm_schedule)
+
 <!-- 
 other self-style also recommended.
 [title](/projects/...)
