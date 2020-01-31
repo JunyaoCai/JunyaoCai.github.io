@@ -26,6 +26,16 @@ switch1--1g---worker2:4096MB_6Cores_2.00GHz
 |  resnet50  |  107 MB   |  4 GFLOPS  |  0.6+0.6+0.59+<br/>0.6+0.58=0.594   | 0.78+0.78+0.76+<br/>0.76+0.77=0.77  |  29.63%  |
 | mobilenet  |   16 MB   | 579 MFLOPs |  2.31+2.3+2.3+<br/>2.33+2.34=2.316  | 2.31+2.36+2.34<br/>2.36+2.36=2.346  |  1.30%   |
 
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
 <!-- <img class="img-responsive" src="/images/ECCV2018_architecture.jpg">
 
 ## Publication:
