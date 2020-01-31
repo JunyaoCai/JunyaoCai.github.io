@@ -21,6 +21,7 @@ switch1--1g---worker2:4096MB_6Cores_2.00GHz
 ```
 
 ## Current Results
+
 |   model    | param mem |   flops    |     no schedule(imgs&#47;sec)      |    with schedule(imgs&#47;sec)     | speed up |
 | :--------: | :-------: | :--------: | :---------------------------------: | :---------------------------------: | :------: |
 |  alexnet   |  233 MB   | 727 MFLOPs |                0.24                 |                0.34                 |  41.67%  |
