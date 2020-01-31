@@ -21,13 +21,17 @@ switch1--1g---worker2:4096MB_6Cores_2.00GHz
 ```
 
 ## Current Results
-|   model    | param mem |   flops    |     no schedule(imgs/sec)      |    with schedule(imgs/sec)     | speed up |
+<!-- |   model    | param mem |   flops    |     no schedule(imgs/sec)      |    with schedule(imgs/sec)     | speed up |
 | :--------: | :-------: | :--------: | :---------------------------------: | :---------------------------------: | :------: |
 |  alexnet   |  233 MB   | 727 MFLOPs |                0.24                 |                0.34                 |  41.67%  |
 | googlenet  |   51 MB   |  2 GFLOPS  | 2.06+2.11+2.14+2.22+2.15=2.136 | 2.66+2.84+2.78+2.87+2.84=2.798 |  30.99%  |
 | inception3 |   91 MB   |  6 GFLOPS  | 0.63+0.62+0.62+0.64+0.63=0.628 | 0.79+0.78+0.79+0.83+0.75=0.788 |  25.48%  |
 |  resnet50  |  107 MB   |  4 GFLOPS  |  0.6+0.6+0.59+0.6+0.58=0.594   | 0.78+0.78+0.76+0.76+0.77=0.77  |  29.63%  |
-| mobilenet  |   16 MB   | 579 MFLOPs |  2.31+2.3+2.3+2.33+2.34=2.316  | 2.31+2.36+2.34+2.36+2.36=2.346  |  1.30%   |
+| mobilenet  |   16 MB   | 579 MFLOPs |  2.31+2.3+2.3+2.33+2.34=2.316  | 2.31+2.36+2.34+2.36+2.36=2.346  |  1.30%   | -->
+
+|   model    | param mem |   flops    |     no schedule      |    with schedule     | speed up |
+| :--------: | :-------: | :--------: | :---------------------------------: | :---------------------------------: | :------: |
+|  alexnet   |  233 MB   | 727 MFLOPs |                0.24                 |                0.34                 |  41.67%  |
 
 <!-- <img class="img-responsive" src="/images/ECCV2018_architecture.jpg">
 
