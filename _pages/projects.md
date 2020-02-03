@@ -4,7 +4,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-[Accelerate DML with Communication Schedule](https://junyaocai.cn/projects/accelerate_DML_with_comm_schedule)
+<!-- [Accelerate DML with Communication Schedule](http://localhost:4000/projects/accelerate_DML_with_comm_schedule) -->
+1. [Accelerate DML with Communication Schedule](https://junyaocai.cn/projects/accelerate_DML_with_comm_schedule) (2019.03- )
 
 <!-- 
 other self-style also recommended.
