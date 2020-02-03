@@ -8,7 +8,7 @@ main:
 #    url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
 
   - title: "Projects"
     url: /projects/
