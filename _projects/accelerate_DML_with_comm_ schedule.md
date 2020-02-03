@@ -12,7 +12,7 @@ We design a network priority scheduling method to accelerate distributed machine
 
 ## Experiment Topology
 
-<img class="img-responsive" src="/images/Accelerate_DML_with_Comm_Schedule/topology.png">
+<img class="img-responsive" src="/images/projects/Accelerate_DML_with_Comm_Schedule/topology.png">
 
 > Due to the current technical limitations of the implementation, scheduling is only effective through the switch, so there are seemingly superfluous 10g links and switch1 above. We are actively looking for ways to implement scheduling on the host.
 
