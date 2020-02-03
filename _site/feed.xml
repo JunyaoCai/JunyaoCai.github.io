@@ -1,7 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-03T06:47:57-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Junyao Cai / Homepage</title><subtitle>Undergraduate at Hunan University</subtitle><author><name>Junyao Cai(蔡均瑶)</name><email>caijunyao8@gmail.com</email></author><entry><title type="html">Blog Post number 1</title><link href="http://localhost:4000/blog-posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Blog Post number 1" /><published>2012-08-14T00:00:00-07:00</published><updated>2012-08-14T00:00:00-07:00</updated><id>http://localhost:4000/blog-posts/2012/08/blog-post-1</id><content type="html" xml:base="http://localhost:4000/blog-posts/2012/08/blog-post-1/">&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-03T09:15:02-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Junyao Cai / Homepage</title><subtitle>Undergraduate at Hunan University</subtitle><author><name>Junyao Cai(蔡均瑶)</name><email>caijunyao8@gmail.com</email></author><entry><title type="html">分布式与并行机器学习资源列表（持续更新）</title><link href="http://localhost:4000/blog-posts/2020/1/1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%8E%E5%B9%B6%E8%A1%8C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0)" rel="alternate" type="text/html" title="分布式与并行机器学习资源列表（持续更新）" /><published>2020-01-01T00:00:00-08:00</published><updated>2020-01-01T00:00:00-08:00</updated><id>http://localhost:4000/blog-posts/2020/1/1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%8E%E5%B9%B6%E8%A1%8C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0)</id><content type="html" xml:base="http://localhost:4000/blog-posts/2020/1/1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%8E%E5%B9%B6%E8%A1%8C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0)">&lt;p&gt;我知道的近些年分布式与并行机器学习各大顶会论文&lt;/p&gt;
 
-&lt;h1 id=&quot;headings-are-cool&quot;&gt;Headings are cool&lt;/h1&gt;
+&lt;p&gt;(NIPS 2012) Large Scale Distributed Deep Networks&lt;/p&gt;
 
-&lt;h1 id=&quot;you-can-have-many-headings&quot;&gt;You can have many headings&lt;/h1&gt;
+&lt;p&gt;(CoRR 2018) Horovod: Fast and Easy Distributed Deep Learning in TensorFlow&lt;/p&gt;
 
-&lt;h2 id=&quot;arent-headings-cool&quot;&gt;Aren’t headings cool?&lt;/h2&gt;</content><author><name>Junyao Cai(蔡均瑶)</name><email>caijunyao8@gmail.com</email></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html">This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</summary></entry></feed>
+&lt;p&gt;(ATC 2017) Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters&lt;/p&gt;
+
+&lt;p&gt;(EuroSys 2016) GeePS: Scalable Deep Learning on Distributed GPUs
+with A GPU-specialized Parameter Server&lt;/p&gt;
+
+&lt;p&gt;(SOSP 2019) A Generic Communication Scheduler for Distributed DNN Training Acceleration&lt;/p&gt;
+
+&lt;p&gt;(NSDI 2019) Tiresias: A GPU Cluster Manager for Distributed Deep Learning&lt;/p&gt;
+
+&lt;p&gt;(SysML 2019) Tictac: Accelerating Distributed Deep Learning with
+Communication Scheduling&lt;/p&gt;
+
+&lt;p&gt;(OSDI 2018) Gandiva: Introspective Cluster Scheduling for Deep Learning&lt;/p&gt;
+
+&lt;p&gt;(NeurIPS 2018) BML A High-performance , Low-cost Gradient Synchronization Algorithm for DML Training&lt;/p&gt;
+
+&lt;p&gt;(NetAI 2018) HiPS Hierarchical Parameter Synchronization in Large-Scale Distributed Machine Learning - Geng et al&lt;/p&gt;
+
+&lt;p&gt;(Infocom 2019) Impact of Network Topology on the Performance of&lt;/p&gt;
+
+&lt;p&gt;(Arxiv 2019) Blink: Fast and Generic Collectives for Distributed ML&lt;/p&gt;
+
+&lt;p&gt;(Arxiv 2018) GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism&lt;/p&gt;
+
+&lt;p&gt;(Arxiv 2019) Optimization for deep learning: theory and algorithms&lt;/p&gt;</content><author><name>Junyao Cai(蔡均瑶)</name><email>caijunyao8@gmail.com</email></author><category term="distributed" /><category term="machine learning" /><category term="paper" /><summary type="html">我知道的近些年分布式与并行机器学习各大顶会论文</summary></entry><entry><title type="html">一些我用过的网络工具</title><link href="http://localhost:4000/blog-posts/2019/11/20/%E4%B8%80%E4%BA%9B%E6%88%91%E7%94%A8%E8%BF%87%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7" rel="alternate" type="text/html" title="一些我用过的网络工具" /><published>2019-11-20T00:00:00-08:00</published><updated>2019-11-20T00:00:00-08:00</updated><id>http://localhost:4000/blog-posts/2019/11/20/%E4%B8%80%E4%BA%9B%E6%88%91%E7%94%A8%E8%BF%87%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7</id><content type="html" xml:base="http://localhost:4000/blog-posts/2019/11/20/%E4%B8%80%E4%BA%9B%E6%88%91%E7%94%A8%E8%BF%87%E7%9A%84%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7">&lt;p&gt;回忆了一下我用过的一些简单网络工具并作简单记录（嗯你猜中了，这是第一篇凑数量的blog）&lt;/p&gt;
+
+&lt;h2 id=&quot;arista万兆交换机&quot;&gt;Arista万兆交换机&lt;/h2&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# 进入交换机配置&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;enable
+&lt;/span&gt;configure terminal
+show interface status &lt;span class=&quot;c&quot;&gt;# 查看交换机接口状态&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# The default mode setting is CoS trust for switched ports and DSCP trust for routed ports.&lt;/span&gt;
+switch&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;config&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;# 指定interface ethernet 15&lt;/span&gt;
+switch&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;config-if-Et15&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;# 设置dscp模式：qos trust dscp&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# 注意：信息不同的交换机的具体dscp/Cos队列映射规则不同需要具体查看&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;ethstatus-网卡测速&quot;&gt;ethstatus 网卡测速&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;功能：监控实时的网卡带宽占用，显示当前网卡的 RX 和 TX 速率，单位是Byte&lt;/li&gt;
+  &lt;li&gt;安装：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo apt-get install ethstatus &lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;查看 网卡 的速度：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo ethstatus -i eth0 &lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;iperf3-网络性能测试&quot;&gt;iperf3 网络性能测试&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;iperf3 -s 服务器地址&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;iperf3 -c 192.168.0.1(目的IP) -b(发送速率) -t(持续时间单位秒)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wireshark-pcap包管理&quot;&gt;Wireshark pcap包管理&lt;/h2&gt;
+
+&lt;p&gt;拆分pcap：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;editcap -c 1000000(num_pkts) old_file_name.pcap new_file_name_prefix.pcap&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;parallelssh-服务器脚本管理&quot;&gt;p(arallel)ssh 服务器脚本管理&lt;/h2&gt;
+
+&lt;p&gt;在hosts.txt中列出来的服务器上远程执行uptime命令，并将执行结果输出到/tmp/uptime目录下相应地服务器的文件中：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pssh -h hosts.txt -l root -o /tmp/uptime uptime&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;netfilter-管理网络数据包&quot;&gt;Netfilter 管理网络数据包&lt;/h2&gt;
+
+&lt;p&gt;其中的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hook&lt;/code&gt;函数返回状态&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NF_STOLEN&lt;/code&gt;可将网络数据包暂时“偷”走，在需要的时候通过&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nf_hook_stat&lt;/code&gt;中的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;okfn()&lt;/code&gt;函数回调&lt;/p&gt;
+
+&lt;h2 id=&quot;linux-traffic-control-流量控制&quot;&gt;Linux Traffic Control 流量控制&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;以&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;qdisc-class-filter&lt;/code&gt;的树形结构来实现对流量的分层控制&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;htb队列示例用法&quot;&gt;htb队列示例用法&lt;/h3&gt;
+
+&lt;p&gt;(htb有许多需要相互协调参数，若要真正生效，需要对其所有参数有深入理解，具体参数含义搜索引擎可查)&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# add qdisc&lt;/span&gt;
+tc qdisc add dev eth0 root handle 1: htb default 2 r2q 100
+&lt;span class=&quot;c&quot;&gt;# add default class&lt;/span&gt;
+tc class add dev eth0 parent 1:0 classid 1:1 htb rate 1000mbit ceil 1000mbit
+tc class add dev eth0 parent 1:1 classid 1:2 htb prio 5 rate 1000mbit ceil 1000mbit
+tc qdisc add dev eth0 parent 1:2 handle 2: pfifo limit 500
+&lt;span class=&quot;c&quot;&gt;# add default filter&lt;/span&gt;
+tc filter add dev eth0 parent 1:0 prio 5 protocol ip u32
+tc filter add dev eth0 parent 1:0 prio 5 handle 3: protocol ip u32 divisor 256
+tc filter add dev eth0 parent 1:0 prio 5 protocol ip u32 ht 800:: match ip src 192.168.0.0/16 hashkey mask 0x000000ff at 12 &lt;span class=&quot;nb&quot;&gt;link &lt;/span&gt;3:
+
+&lt;span class=&quot;c&quot;&gt;# add egress rules for 192.168.0.9&lt;/span&gt;
+tc class add dev eth0 parent 1:1 classid 1:9 htb prio 5 rate 3mbit ceil 3mbit
+tc qdisc add dev eth0 parent 1:9 handle 9: pfifo limit 500
+tc filter add dev eth0 parent 1: protocol ip prio 5 u32 ht 3:9: match ip src &lt;span class=&quot;s2&quot;&gt;&quot;192.168.0.9&quot;&lt;/span&gt; flowid 1:9
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Junyao Cai(蔡均瑶)</name><email>caijunyao8@gmail.com</email></author><category term="switch" /><category term="ethstatus" /><category term="iperf3" /><category term="wireshark" /><category term="pssh" /><category term="Netfilter" /><category term="Traffic Control" /><summary type="html">回忆了一下我用过的一些简单网络工具并作简单记录（嗯你猜中了，这是第一篇凑数量的blog）</summary></entry></feed>
