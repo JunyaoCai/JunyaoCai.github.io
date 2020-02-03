@@ -3,6 +3,7 @@ title: "Accelerate_DML_with_Comm_Schedule"
 collection: projects
 permalink: /projects/accelerate_DML_with_comm_schedule
 excerpt: 'This project is about accelerating DML with communincation schedule.'
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 ---
 ## Overview
 At present, communication overhead has become the bottleneck of distributed machine learning(DML) training. DML usually adopts a centralized parameter server(PS) architecture, which easily leads to unreasonable utilization of network resources. 

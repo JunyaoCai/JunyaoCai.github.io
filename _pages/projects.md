@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-permalink: /projects/
+permalink: /projects2/
 author_profile: true
 ---
 
