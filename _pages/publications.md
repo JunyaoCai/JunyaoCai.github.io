@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## patent
+一种分布式机器学习系统及适用于其的通信调度方法 CN111612155A
 <!-- 
 International Conference
 ------
