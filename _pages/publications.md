@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## patent
-一种分布式机器学习系统及适用于其的通信调度方法 CN111612155A
+[一种分布式机器学习系统及适用于其的通信调度方法](http://www.ipfeibiao.com/patent/pdfview/202010411839X.html) CN111612155A
 <!-- 
 International Conference
 ------
