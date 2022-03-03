@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 <!-- [Accelerate DML with Communication Schedule](http://localhost:4000/projects/accelerate_DML_with_comm_schedule) -->
-1. [Accelerate DML with Communication Schedule](/projects/accelerate_DML_with_comm_schedule) (2019.03- )
+1. [Accelerate DML with Communication Schedule](/projects/accelerate_DML_with_comm_schedule) (2019.04-2020.01)
+2. [Network Verification](/projects/network_verification) (2020.09-2020.11)
 
 <!-- 
 other self-style also recommended.
