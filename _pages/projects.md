@@ -7,6 +7,8 @@ author_profile: true
 <!-- [Accelerate DML with Communication Schedule](http://localhost:4000/projects/accelerate_DML_with_comm_schedule) -->
 1. [Accelerate DML with Communication Schedule](/projects/accelerate_DML_with_comm_schedule) (2019.04-2020.01)
 2. [Network Verification](/projects/network_verification) (2020.09-2020.11)
+3. [Smart Flow Table Compression](/projects/smart_flow_table_compression) (2020.11-2021.04)
+4. [Message-level Ordering Transportation](/projects/message-level_ordering_transportation) (2021.04-2021.12)
 
 <!-- 
 other self-style also recommended.

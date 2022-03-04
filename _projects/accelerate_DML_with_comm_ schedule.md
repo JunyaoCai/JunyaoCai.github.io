@@ -1,5 +1,5 @@
 ---
-title: "Accelerate_DML_with_Comm_Schedule"
+title: "Accelerate DML with Comm Schedule"
 collection: projects
 permalink: /projects/accelerate_DML_with_comm_schedule
 excerpt: 'This project is about accelerating DML with communincation schedule.'
