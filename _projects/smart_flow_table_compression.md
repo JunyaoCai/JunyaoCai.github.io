@@ -12,4 +12,4 @@ We present a novel approach, which uses nerual network instead of traditional da
 - When the rules are updated, only the neural network corresponding to the tuple needs to be retrained. Since the size of a single neural network is small, it can support fast incremental update
 - The process of package inference can be parallelized, which speeds up package inference
 
-<img class="img-responsive" src="images/projects/NN_Flow_Table/nn_flow_table.png">
+<img class="img-responsive" src="/images/projects/NN_Flow_Table/nn_flow_table.png">
